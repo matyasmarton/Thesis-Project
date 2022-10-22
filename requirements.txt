@@ -342,7 +342,7 @@ tenacity==8.0.1
 tensorboard==2.8.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
-tensorflow==
+tensorflow==2.8.0
 tensorflow-datasets==4.0.1
 tensorflow-estimator==2.8.0
 tensorflow-gcs-config==2.8.0
